@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Paji-da Daba",
+    "location": "Delhi",
+    "pricePerPlate": 100,
+    "cuisines": ["Indian", "chinese", "Gujrati"],
+    "rating": 4.6
+  },
+  {
+    "id": 2,
+    "name": "ser Daba",
+    "location": "Delhi",
+    "pricePerPlate": 120,
+    "cuisines": ["Indian", "chinese", "Gujrati"],
+    "rating": 4.6
+  },
+  {
+    "id": 3,
+    "name": "panjabi Daba",
+    "location": "Delhi",
+    "pricePerPlate": 140,
+    "cuisines": ["Indian", "chinese", "Gujrati"],
+    "rating": 4.6
+  },
+  {
+    "id": 5331991,
+    "name": "mohan sweet",
+    "location": "Delhi",
+    "pricePerPlate": 120,
+    "cuisines": ["Indian", "chinese", "Gujrati"],
+    "rating": 6
+  },
+  {
+    "id": 9335825,
+    "name": "mohan sweet",
+    "location": "Delhi",
+    "pricePerPlate": 120,
+    "cuisines": ["Indian", "chinese", "Gujrati"],
+    "rating": 6
+  }
+]
